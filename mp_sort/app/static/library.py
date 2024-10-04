@@ -1,5 +1,4 @@
 from org.transcrypt.stubs.browser import *
-# Commit 0: import Flask 
 from flask import Flask, render_template
 import random
 
