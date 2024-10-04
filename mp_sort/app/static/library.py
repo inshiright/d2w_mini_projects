@@ -11,7 +11,7 @@ def gen_random_int(number, seed):
 	global array
 	random.seed(seed)
 	array = [random.randint(0, 9) for _ in range(number)]
-	pass
+	pass 
 
 def generate():
 	number = 10
